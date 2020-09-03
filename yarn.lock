@@ -2634,10 +2634,10 @@
     gatsby-transformer-yaml "^2.2.23"
     url-join "^4.0.1"
 
-"@rocketseat/gatsby-theme-docs@2.2.1":
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/@rocketseat/gatsby-theme-docs/-/gatsby-theme-docs-2.2.1.tgz#d7b48201a15aeacf8051de784a5c2617f0ca57a4"
-  integrity sha512-D1tIVk0gsRg6a6a50DTFUdzZs0RD45Wibe3sg+kONuwZ9JeHJ/SwT6+WOK3iOKl/RdYEMqZkWfcVcEHJu9Pv+g==
+"@rocketseat/gatsby-theme-docs@2.2.3":
+  version "2.2.3"
+  resolved "https://registry.yarnpkg.com/@rocketseat/gatsby-theme-docs/-/gatsby-theme-docs-2.2.3.tgz#a95c6fe007ea187d2780c42903693e3527aa3f68"
+  integrity sha512-kMkVgVJqaxLAgQfimDWCf1XN5tKRcBC8wPoqvCKJUSdzulb8ycy2gZF7lj+C6ZLVmczbPNZB/PFIQp1Mz+56lQ==
   dependencies:
     "@emotion/core" "^10.0.27"
     "@emotion/styled" "^10.0.27"
@@ -2648,6 +2648,7 @@
     gatsby-plugin-emotion "^4.1.21"
     gatsby-plugin-mdx "^1.2.37"
     gatsby-plugin-react-helmet "^3.1.16"
+    mdx-utils "^0.2.0"
     parse-numeric-range "^1.2.0"
     polished "^3.4.2"
     prism-react-renderer "^1.0.2"
@@ -10737,6 +10738,11 @@ mdurl@^1.0.0, mdurl@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/mdurl/-/mdurl-1.0.1.tgz#fe85b2ec75a59037f2adfec100fd6c601761152e"
   integrity sha1-/oWy7HWlkDfyrf7BAP1sYBdhFS4=
+
+mdx-utils@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/mdx-utils/-/mdx-utils-0.2.0.tgz#b759c5d06545c4f5c49ac3adba3b93942039ac52"
+  integrity sha512-kRhSIrvJ/++jz+ppDNqG3vjJSqSipjqdh2BqYXxUTJBo1cO+hRtQwuudM0ljAWKf5WmePwT4OBRjoCrhmiK+RA==
 
 meant@^1.0.1:
   version "1.0.1"
