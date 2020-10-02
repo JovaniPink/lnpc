@@ -8,12 +8,12 @@
   "starter-name": "gatsby-starter-rocket-docs",
   "dependencies": {
     "@rocketseat/gatsby-theme-docs": "2.2.3",
-    "gatsby": "2.24.65",
-    "gatsby-plugin-canonical-urls": "2.3.11",
-    "gatsby-plugin-google-analytics": "2.3.14",
-    "gatsby-plugin-manifest": "2.4.31",
-    "gatsby-plugin-offline": "3.2.28",
-    "gatsby-plugin-sitemap": "2.4.13",
+    "gatsby": "2.24.67",
+    "gatsby-plugin-canonical-urls": "2.3.12",
+    "gatsby-plugin-google-analytics": "2.3.15",
+    "gatsby-plugin-manifest": "2.4.33",
+    "gatsby-plugin-offline": "3.2.30",
+    "gatsby-plugin-sitemap": "2.4.14",
     "prop-types": "15.7.2",
     "react": "16.13.1",
     "react-dom": "16.13.1"
