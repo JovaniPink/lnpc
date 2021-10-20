@@ -2124,10 +2124,10 @@
     schema-utils "^2.6.5"
     source-map "^0.7.3"
 
-"@rocketseat/gatsby-theme-docs-core@^2.3.1":
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/@rocketseat/gatsby-theme-docs-core/-/gatsby-theme-docs-core-2.3.1.tgz#6772f24bd81ccebdf521375dd3ba4efd914fea13"
-  integrity sha512-E7rUSp/mDKz14vmrEYwF3AnxopII+7U57/Obe0VwS8naexnlgFje+6DDfqIFk6P5GzLMzGdBLbJye98WuoleQQ==
+"@rocketseat/gatsby-theme-docs-core@^2.3.2":
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/@rocketseat/gatsby-theme-docs-core/-/gatsby-theme-docs-core-2.3.2.tgz#a3e648969af7c8bef29026bbf4fff43435131562"
+  integrity sha512-0d2MPCU6wlc+smNnlmToA3vkCEplDxbxaZjEVn2/a3el3oU+jkSBI6sOthJRgixsbTAPW4L586ytmIE6uU0vbQ==
   dependencies:
     "@mdx-js/mdx" "^1.6.18"
     gatsby-plugin-mdx "^2.0.0"
@@ -2142,15 +2142,15 @@
     gatsby-transformer-yaml "^3.0.0"
     url-join "^4.0.1"
 
-"@rocketseat/gatsby-theme-docs@2.3.1":
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/@rocketseat/gatsby-theme-docs/-/gatsby-theme-docs-2.3.1.tgz#84b9bd22260ca9af51cbac2cb213eea6b90e71fc"
-  integrity sha512-HYNIXJUiDVVTauHpifkVusA4XVjcTIRs1BdQaKFaQAzlWmqGzBv9ssN0fMj8y5LWWiLoA/cL/gV0oHhrClubeg==
+"@rocketseat/gatsby-theme-docs@2.4.0":
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/@rocketseat/gatsby-theme-docs/-/gatsby-theme-docs-2.4.0.tgz#afc138f14f632aa17981967e0653a2b1e13b60bf"
+  integrity sha512-l44XMdUwiL7nMThIm9TV+FjfMFk5Du5K7XHBMw9Ck5l3stAUEg55HEEfWwCUNI7RisKcZ2ZcLMmGsRUpGDBEbA==
   dependencies:
     "@emotion/react" "^11.1.5"
     "@emotion/styled" "^11.0.0"
     "@mdx-js/react" "^1.6.18"
-    "@rocketseat/gatsby-theme-docs-core" "^2.3.1"
+    "@rocketseat/gatsby-theme-docs-core" "^2.3.2"
     gatsby-plugin-catch-links "^3.0.0"
     gatsby-plugin-emotion "^6.0.0"
     gatsby-plugin-mdx "^2.0.0"
